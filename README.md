@@ -1,13 +1,13 @@
-Hi there 👋 I'm Eunice Ngonidzashe Muringi
+-Hi there 👋 I'm Eunice Ngonidzashe Muringi
 
-💻 Software Engineering Student
+-💻 Software Engineering Student
 
-I'm a passionate Software Engineering student interested in building impactful software solutions.
+-I'm a passionate Software Engineering student interested in building impactful software solutions.
 
-🌱 Currently learning Java, Python and Web Development
-💡 Interested in AI, Data Science and Full-Stack Development
-📚 Always learning something new
-🎯 Goal: Become a Software Engineer
+-🌱 Currently learning Java, Python and Web Development
+-💡 Interested in AI, Data Science and Full-Stack Development
+-📚 Always learning something new
+-🎯 Goal: Become a Software Engineer
 
 ## 🛠 Tech Stack
 
