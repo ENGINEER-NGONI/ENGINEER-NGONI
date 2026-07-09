@@ -1,4 +1,4 @@
-Hi there 👋 I'm Eunice Muringi
+Hi there 👋 I'm Eunice Ngonidzashe Muringi
 
 💻 Software Engineering Student
 
